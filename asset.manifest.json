@@ -1,0 +1,9 @@
+{
+  "bowerFiles": [
+    "components/masonry-layout/dist/*.*",
+    "components/masonry-layout/masonry.js"
+  ],
+  "clientManifestFiles": [
+    "components/masonry-layout/dist/*.*"
+  ]
+}
